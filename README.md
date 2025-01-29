@@ -1,1 +1,1 @@
-# git-class
+# git-hub-class
